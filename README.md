@@ -3,7 +3,7 @@
 ![TechHub Screenshot](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
 
 A professional static website built with HTML, CSS, and JavaScript, deployed using GitHub Pages.
-https://taskstaticwebsite.netlify.app/
+(https://praveen24lingam.github.io/praveen24lingam/)
 ## Features
 
 - **Responsive Design**: Works on all devices from desktop to mobile
